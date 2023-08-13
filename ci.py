@@ -1,3 +1,3 @@
 import wandb
 
-print("The wandb version is {wandb.__version__}")
+print(f"The wandb version is {wandb.__version__}")
